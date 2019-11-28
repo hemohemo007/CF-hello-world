@@ -3,7 +3,3 @@ This is test
 This is test
 
 
-Push Pivotal
-dsd
-
-a
